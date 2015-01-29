@@ -2806,7 +2806,7 @@ msgstr "Très bien, je vais vous en ramener."
 
 #: conversationlist_fallhaven_athamyr.json:athamyr_complete
 msgid "Thanks, this will do nicely."
-msgstr "Merci,cela ira très bien."
+msgstr "Merci, cela ira très bien."
 
 #: conversationlist_fallhaven_athamyr.json:athamyr_complete_2
 msgid "You have my permission to enter the catacombs of Fallhaven Church."
@@ -3156,7 +3156,7 @@ msgstr ""
 
 #: conversationlist_fallhaven_drunk.json:fallhaven_drunk_9_1
 msgid "Well then give it back! Or go buy me another mead."
-msgstr "Alors tu va me l'a rendre ! Ou alors tu vas m'en acheter d'autre."
+msgstr "Alors tu vas me le rendre ! Ou alors tu vas m'en acheter d'autre."
 
 #: conversationlist_fallhaven_drunk.json:fallhaven_drunk_9_1:0
 #: conversationlist_fallhaven_drunk.json:fallhaven_drunk_9_2:0
@@ -10866,7 +10866,7 @@ msgstr "Je dois lui rapporter une Glande à venin, deux morceaux de Pelage d'ani
 
 #: questlist_v070_misc.json:antifoodp:30
 msgid "I have brought the ingredients for the potion."
-msgstr "J'ai ramené les ingrédients de la potion."
+msgstr "J'ai ramené les ingrédients pour la potion."
 
 #: questlist_v070_misc.json:antifoodp:35
 msgid "I received a potion of antidote, that should help me if I get food-poisoning."
